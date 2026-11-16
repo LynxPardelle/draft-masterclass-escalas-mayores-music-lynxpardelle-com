@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-escalas-mayores.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Escalas I: escala mayor y armonización | Lynx Pardelle",
+    "description": "Parte de una escala mayor y averigua qué acordes puedes construir con sus notas. Usa esos acordes para crear una progresión y escribir una melodía que se escuche en relación con ella.",
+    "canonical": "https://masterclass-escalas-mayores.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-teoria.webp"
+    }
+  }
+}
