@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Escalas I: escala mayor y armonización | Lynx Pardelle",
-    "description": "Parte de una escala mayor y averigua qué acordes puedes construir con sus notas. Usa esos acordes para crear una progresión y escribir una melodía que se escuche en relación con ella.",
+    "title": "Masterclass de escala mayor, armonización y cadencias | Lynx Pardelle",
+    "description": "Trabaja la escala mayor, su armonización por terceras y quintas, las cadencias y las progresiones en relación con la melodía.",
     "canonical": "https://masterclass-escalas-mayores.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-escalas-mayores-r2-5b63fa719aa7a341.webp",
+      "title": "Masterclass de escala mayor, armonización y cadencias | Lynx Pardelle",
+      "description": "Trabaja la escala mayor, su armonización por terceras y quintas, las cadencias y las progresiones en relación con la melodía.",
+      "url": "https://masterclass-escalas-mayores.music.lynxpardelle.com/",
+      "imageAlt": "Teclado y partitura de un ejercicio de escala mayor."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de escala mayor, armonización y cadencias | Lynx Pardelle",
+      "description": "Trabaja la escala mayor, su armonización por terceras y quintas, las cadencias y las progresiones en relación con la melodía.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-escalas-mayores-r2-5b63fa719aa7a341.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-escalas-mayores.music.lynxpardelle.com/#webpage",
+        "name": "Escalas I: escala mayor y armonización",
+        "description": "Trabaja la escala mayor, su armonización por terceras y quintas, las cadencias y las progresiones en relación con la melodía.",
+        "url": "https://masterclass-escalas-mayores.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-escalas-mayores.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-escalas-mayores.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Escalas I: escala mayor y armonización",
+        "description": "Trabaja la escala mayor, su armonización por terceras y quintas, las cadencias y las progresiones en relación con la melodía.",
+        "url": "https://masterclass-escalas-mayores.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-escalas-mayores-r2-5b63fa719aa7a341.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-escalas-mayores.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
